@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EEF98C0-89F4-4093-B7ED-F5809C2BCA1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD26D48D-F49C-4FD7-B570-AB242C43FF71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E43344E-B5A9-44D0-A933-02023EC0CE3B",
+    "height": 40,
+    "width": 512,
+    "x": 244,
+    "y": 174
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page Title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0EBDB20-D9E9-4931-9B1B-0A468F73C651",
+      "overrideName": "872A280D-A0DF-4B79-B71C-97CAC8CEA7FB_stringValue",
+      "value": "Management Team"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E96F0782-17FB-4362-A907-07DD36D2D5CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "858025DD-D9C6-479A-81C8-D53FFF21C3C1",
+  "verticalSpacing": 0
+}

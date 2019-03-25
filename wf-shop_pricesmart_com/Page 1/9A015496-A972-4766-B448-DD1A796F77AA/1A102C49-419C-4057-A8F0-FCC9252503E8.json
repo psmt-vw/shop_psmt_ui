@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A102C49-419C-4057-A8F0-FCC9252503E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 92,
+    "width": 267,
+    "x": 384,
+    "y": 470
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Club list2 Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A154424B-50A9-482B-82E6-1199EA639D5D",
+      "overrideName": "883F8372-E9A3-4607-A5A7-63A094B35330_stringValue",
+      "value": "Cali - Cañas Gordas"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CD09270-07A4-4EF3-B329-A44CA5138177",
+      "overrideName": "802D8746-1E35-4F78-9A0A-DA11CAAA65A1_stringValue",
+      "value": "Carrera 121 No 18 – 34\ninfocali@pricesmart.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CFA1E375-D666-40B4-9761-791D34CA9D61",
+  "verticalSpacing": 0
+}

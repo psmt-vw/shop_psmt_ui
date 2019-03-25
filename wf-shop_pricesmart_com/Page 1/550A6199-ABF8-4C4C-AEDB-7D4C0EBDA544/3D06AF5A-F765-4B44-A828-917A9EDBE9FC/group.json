@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D06AF5A-F765-4B44-A828-917A9EDBE9FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44314D76-D27B-46D7-877E-60EE07862BDE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEF8BAE1-8890-41E9-BA82-5AEA7C623B8F",
+    "height": 182,
+    "width": 215,
+    "x": 14,
+    "y": 145
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F667C540-95BD-4C8A-A25F-C3F81F88D759"
+    },
+    {
+      "class": "text",
+      "id": "A0D57A90-0190-4A92-982C-A1D4F3E3D42C"
+    },
+    {
+      "class": "text",
+      "id": "4E4203BD-FE36-43F9-AE9C-D2C8A1DDA418"
+    }
+  ],
+  "name": "sidebar links section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B1A61FD-D05B-4DCB-9A9F-0E6C4EAAD9A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

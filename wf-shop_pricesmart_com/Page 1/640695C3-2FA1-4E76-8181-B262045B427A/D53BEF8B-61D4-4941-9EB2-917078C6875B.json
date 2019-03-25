@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D53BEF8B-61D4-4941-9EB2-917078C6875B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "944ED8D2-E331-46AB-8587-6620E6EC801F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B674FBF2-5248-4501-A535-2E596C33B7A5",
+    "height": 40,
+    "width": 512,
+    "x": 244,
+    "y": 174
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page Title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0EBDB20-D9E9-4931-9B1B-0A468F73C651",
+      "overrideName": "872A280D-A0DF-4B79-B71C-97CAC8CEA7FB_stringValue",
+      "value": "Shareholder Distributions"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4BD4844D-C716-4541-8C95-FB0CF3887251",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "858025DD-D9C6-479A-81C8-D53FFF21C3C1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B15350D0-03AC-4B22-B82A-723853F69262",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3353344F-D510-41CE-9D3C-83F8E6715DA6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AAF89DE-9ECC-4D7B-A697-1BAB5C177881",
+    "height": 40,
+    "width": 301,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page Title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71261682-D894-432C-83D4-DF33C6B2D074",
+      "overrideName": "872A280D-A0DF-4B79-B71C-97CAC8CEA7FB_stringValue",
+      "value": "What's New at PriceSmart"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF68ABBB-6DEC-4BE1-8F91-933C4508F14A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "858025DD-D9C6-479A-81C8-D53FFF21C3C1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FE342DB4-8B51-4579-BEF2-807902FF2725",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E878413-A7FB-4C18-A48D-BDD47FC20CCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A52DDA16-E592-46C4-A861-4E1EC0934910",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "37838836-EF34-46AB-9202-0EAE1C161EC0",
+    "height": 1686,
+    "width": 1024,
+    "x": 11366,
+    "y": 1793
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1521052C-B50C-467A-AA57-C33F7BCA7D3D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A6486168-0F1C-4854-A2D2-3627CD4B5B24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A50BFBEE-A3DE-41DE-A140-0E38CAB99D3A"
+    },
+    {
+      "class": "group",
+      "id": "5339A7BE-768E-4E32-9D21-F442A7B442C3"
+    },
+    {
+      "class": "group",
+      "id": "8B3B046B-879B-4D9A-8787-81FB3B151041"
+    },
+    {
+      "class": "group",
+      "id": "16549854-37E2-4DE4-8B7E-0691C9EFFAF9"
+    },
+    {
+      "class": "group",
+      "id": "CF182727-EBB4-4744-90A5-678A55CA26F5"
+    },
+    {
+      "class": "group",
+      "id": "CE1E47B3-3F7E-4421-9FB3-34432F42A0CE"
+    },
+    {
+      "class": "text",
+      "id": "0A42D52F-CD7D-4202-AB85-F0728DD10577"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "813EEC50-63C7-4F73-B406-1E9B7B60AE3E"
+    },
+    {
+      "class": "group",
+      "id": "3FE7D1FD-57C5-4045-8E16-CB88DD45EB86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "531483BA-9214-47F3-AE62-2E8CB77A0D6D"
+    },
+    {
+      "class": "group",
+      "id": "3D27B819-76FA-415E-A585-C5F4637286C7"
+    },
+    {
+      "class": "text",
+      "id": "26D7950B-AA72-4684-BB58-68819161704D"
+    },
+    {
+      "class": "text",
+      "id": "AA784A89-6609-41DF-A03F-9D9A0D71FCD1"
+    },
+    {
+      "class": "group",
+      "id": "C928345A-D83F-4FEB-A709-2B675641EB67"
+    }
+  ],
+  "name": "Colombia Homepage - https://shop.pricesmart.com/CO/EN/inclub",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4DDA34C-4E36-4208-9322-F45ADDDBD7ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "29CBB926-6998-4F36-939C-78A0A5C39E31",
+    "guides": [
+    ]
+  }
+}

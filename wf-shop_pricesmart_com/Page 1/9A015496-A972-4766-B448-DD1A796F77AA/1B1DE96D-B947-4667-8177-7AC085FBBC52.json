@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B1DE96D-B947-4667-8177-7AC085FBBC52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 92,
+    "width": 267,
+    "x": 87,
+    "y": 470
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Club list2 Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09EA2F5D-A691-45E2-9C62-FE6C5E5F314F",
+      "overrideName": "883F8372-E9A3-4607-A5A7-63A094B35330_stringValue",
+      "value": "Barranquilla"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F389A79-F177-4A10-BA55-2A6D7F74C651",
+      "overrideName": "802D8746-1E35-4F78-9A0A-DA11CAAA65A1_stringValue",
+      "value": "Carrera 53 con calle 106 esquina\ninfobarranquilla@pricesmart.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CFA1E375-D666-40B4-9761-791D34CA9D61",
+  "verticalSpacing": 0
+}

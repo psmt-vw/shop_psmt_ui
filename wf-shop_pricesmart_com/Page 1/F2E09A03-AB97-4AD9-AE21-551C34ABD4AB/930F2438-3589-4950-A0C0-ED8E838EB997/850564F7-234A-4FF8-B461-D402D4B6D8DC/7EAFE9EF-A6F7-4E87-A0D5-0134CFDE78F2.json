@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EAFE9EF-A6F7-4E87-A0D5-0134CFDE78F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C20310FC-712A-40C4-8258-4A573932E40C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDC56A02-5BF3-48F7-85E3-DBC4F09123CB",
+    "height": 30,
+    "width": 279,
+    "x": 75,
+    "y": 5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/text-input-search",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B77D7FC9-D0F0-4B14-B19C-9DBB276E3A92",
+      "overrideName": "93D3B714-F615-4207-8404-C9D2CA18CD1E_stringValue",
+      "value": "What are you looking for?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A08C988D-725A-45D3-B537-82D0BA3AF4BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FB1B89AB-302A-4FA2-859C-2F859F6902B4",
+  "verticalSpacing": 0
+}

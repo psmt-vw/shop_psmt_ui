@@ -1,0 +1,148 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1843137255,
+            "red": 0.1764705882
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Bold",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
+            "paragraphSpacing": 5
+          }
+        },
+        "length": 31,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1843137255,
+            "red": 0.1764705882
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
+            "paragraphSpacing": 5
+          }
+        },
+        "length": 1257,
+        "location": 31
+      }
+    ],
+    "string": "PriceSmart, Inc. (NASDAQ: PSMT) is the largest operator of membership warehouse clubs in Central America and the Caribbean, and has recently entered the South American region with clubs in Colombia. We serve over 3 million cardholders at 40 owned and operated warehouse clubs in 12 countries and one U.S. territory. PriceSmart was pioneered by Sol and Robert Price, founders of The Price Club; Robert Price is Chairman of the Board.\n\nPriceSmart’s membership club model is similar in many respects to U.S. clubs like Costco and Sam’s, with some differences: \n• Smaller store size (33,000 to 62,000 sales floor sq. ft.) to align with the size of the markets in which we operate. \n• Lower membership fees – average $35.00 \n• Merchandise tailored to local preferences as well as for retail and wholesale customers \nCurrently PriceSmart warehouse clubs can be found in the following countries: Colombia (7), Costa Rica (7), El Salvador (2), Guatemala (3) Honduras (3), Nicaragua (2), Panama (5), Aruba (1), Barbados (1), Dominican Republic (3), Jamaica (1), Trinidad and Tobago (4), and U.S. Virgin Islands (1).\n\nPriceSmart believes it is well positioned to profit from the growth in developing markets due to its purchasing power and experience with membership warehouse clubs in these areas."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E88E3FC5-2582-4F4E-9BEE-AE34C41C7902",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "05094314-C9F8-48CD-A7A8-47E0351356C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EED34A95-469F-4357-B622-2356179E5F5B",
+    "height": 371,
+    "width": 764,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 3}, {758, 355}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "PriceSmart, Inc. (NA",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "718E3D48-9E51-4671-834A-071E0E77D49E",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D50BC51-E165-44C2-ABD8-1AC53A3824F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "64BF58E6-BB35-423B-8423-697D0AD118B3",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941,
+          "green": 0.1843137255,
+          "red": 0.1764705882
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Bold",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
+          "paragraphSpacing": 5
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

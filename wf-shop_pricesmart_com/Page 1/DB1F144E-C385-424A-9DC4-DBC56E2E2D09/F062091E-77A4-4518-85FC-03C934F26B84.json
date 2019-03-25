@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F062091E-77A4-4518-85FC-03C934F26B84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4830342-8AEF-4EB6-AB00-581D1E3AA5F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1DC3F1A-757C-4C02-BB7B-2CAB7713140C",
+    "height": 24,
+    "width": 315,
+    "x": 243,
+    "y": 145
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Breadcrumbs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F10993F-19A1-463F-9B07-EB6EB6C1AC56",
+      "overrideName": "739DAFAB-F337-497E-86AE-0DACD820580D_stringValue",
+      "value": "Home › Investor › Investor FAQs"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24A8B535-5372-4AB3-8C6F-2B5F81A1FFAA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "863C3628-16F1-4292-8F79-E237D96045DF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF22D978-330B-4CF6-90A9-927779C6C003",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCD9EFD8-78DB-42DC-937A-8827C54125EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9142102-73DB-427A-8B91-C7B5339A8B9E",
+    "height": 24,
+    "width": 315,
+    "x": 243,
+    "y": 145
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Breadcrumbs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F10993F-19A1-463F-9B07-EB6EB6C1AC56",
+      "overrideName": "739DAFAB-F337-497E-86AE-0DACD820580D_stringValue",
+      "value": "Home › Shopping Cart"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7AA233E-A3E6-4AD6-83A7-D06FE946E6EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "863C3628-16F1-4292-8F79-E237D96045DF",
+  "verticalSpacing": 0
+}

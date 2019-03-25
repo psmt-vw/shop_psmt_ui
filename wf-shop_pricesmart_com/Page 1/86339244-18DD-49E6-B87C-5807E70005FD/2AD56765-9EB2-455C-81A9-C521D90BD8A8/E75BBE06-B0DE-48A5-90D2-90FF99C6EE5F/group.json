@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E75BBE06-B0DE-48A5-90D2-90FF99C6EE5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F314A68E-4703-4BFC-8130-E95A7F62498C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9FC06E0-8A5C-4B0B-966D-4E127FBDE6AD",
+    "height": 40,
+    "width": 338,
+    "x": 15,
+    "y": 49
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A611E1AA-6F87-4812-B967-2D64F3BB4BF5"
+    },
+    {
+      "class": "text",
+      "id": "1FF97A8E-F3D7-40B2-A53F-E872F67F6E4D"
+    }
+  ],
+  "name": "form/text-input",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BFB40B09-D6EC-487B-AB79-834D6353A50F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

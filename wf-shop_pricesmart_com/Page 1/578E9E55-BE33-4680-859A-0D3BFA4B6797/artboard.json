@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D9324E41-7005-44DD-B7EF-16BB2BA3F076",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "578E9E55-BE33-4680-859A-0D3BFA4B6797",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A787F15F-1694-4A38-81AE-51CEA229C4AE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01782C72-1085-4E87-A0DC-1EE91BD45E95",
+    "height": 390,
+    "width": 1024,
+    "x": 11366,
+    "y": 8005
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "332C4D0D-3319-4504-9638-869B40A06D2A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6E48A082-4594-4CDA-924C-EF684B11BF7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "258427B7-75EE-4865-8645-E37EF7EB1875"
+    },
+    {
+      "class": "text",
+      "id": "D40E16EA-051C-42FF-8372-F37ACE6F063F"
+    }
+  ],
+  "name": "Gratuities, Gifts, Free Meals - https://shop.pricesmart.com/Investor/Corporate-Governance/Conduct_ExhB2.pdf",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62875E62-B413-440B-AC9C-BD0D0AA8C782",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FCE758FF-EA05-4599-B549-BE51FB476D04",
+    "guides": [
+    ]
+  }
+}

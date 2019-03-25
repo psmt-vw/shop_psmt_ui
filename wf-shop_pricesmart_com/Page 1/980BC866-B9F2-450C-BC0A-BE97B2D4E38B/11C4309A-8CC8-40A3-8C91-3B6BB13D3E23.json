@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "11C4309A-8CC8-40A3-8C91-3B6BB13D3E23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09A307BC-8636-48BD-A970-3462EA587A43",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "561240A6-10BD-47FF-B13F-230E172CC574",
+    "height": 113,
+    "width": 183,
+    "x": 512,
+    "y": 675
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Club list Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "295DC13E-7F17-4542-97C0-38331AEFC8A9",
+      "overrideName": "A7A66909-1493-441B-8C16-2B93A8942BEB_stringValue",
+      "value": "CLUB 8002 - PORT OF SPAIN"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "658CDC3A-8AB5-4E2A-B7C2-5533D0999AA1",
+      "overrideName": "AA93731E-87CA-4B4A-886A-04FD0525CD89_stringValue",
+      "value": "Jerome Hypolite\nT: (868) 623-7717 (Ext. 606)\nC: (868) 286-0773\njhypolite@pricesmart.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B921584B-1D89-4A1B-B0D8-C013172B3A2A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EEEECBBE-912F-488E-8E32-A42EFC8720BB",
+  "verticalSpacing": 0
+}

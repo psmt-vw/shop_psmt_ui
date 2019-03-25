@@ -1,0 +1,138 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C059FE4D-9A24-4B27-A1FD-C9D824F467E2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5C211CC-B460-4D7D-AA81-14F51DB58A71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63E0C24D-AB5F-4E26-948B-248FAD200091",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87EE4987-090E-4BB1-AE4A-F80197B70DAF",
+    "height": 2791,
+    "width": 1024,
+    "x": 3460,
+    "y": 2452
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A0BBDCD4-7B7F-499C-8C86-4C886FA0D814",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5610A568-BD02-4D15-8899-FD9F9F2D789B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5AB4DB28-AC91-4C64-AF5C-B30B83DBC7F4"
+    },
+    {
+      "class": "group",
+      "id": "4CE983B2-B579-4947-A52B-132C3787DB4B"
+    },
+    {
+      "class": "group",
+      "id": "9ABACF6C-12D7-47AC-9130-B0912265A93F"
+    },
+    {
+      "class": "group",
+      "id": "7CC7A020-5074-4E9B-AD11-3E653AB70F26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "801C9497-A27F-43AA-A3BD-44336BA52144"
+    },
+    {
+      "class": "group",
+      "id": "8B4F0D30-EC75-4AAD-A0AF-3AA850BFD875"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E8854E4-0BCB-4929-83A9-FFEDFC784B31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1614AB18-8234-4B02-BE03-5212E731A1F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA1FC14C-0B3E-4219-946D-09B7D65364EA"
+    }
+  ],
+  "name": "Returns & Warranty - https://shop.pricesmart.com/tt/en/customer-service/returns",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ABD909C6-3564-4468-A087-9B310B6366E0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6C3453E3-22DB-4B4B-9FD8-85443E7979B2",
+    "guides": [
+    ]
+  }
+}

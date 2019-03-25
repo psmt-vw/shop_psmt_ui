@@ -1,0 +1,115 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1843137255,
+            "red": 0.1764705882
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 5
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 5435,
+        "location": 0
+      }
+    ],
+    "string": "We look forward to serving you as a new member of PriceSmart. Your membership privileges and conditions are described below. If you have any questions, please contact the Membership Department at any of our many PriceSmart locations.\n\nMembership\nMembership is available to all qualifying individuals 18 years of age and over. PriceSmart reserves the right to refuse membership to any applicant. Membership is subject to the rules adopted by PriceSmart. Rules may be amended without notice. Membership is revocable without notice or cause.\n\nMembership Cards\nYour membership is valid for a period of 365 days commencing the date the warehouse opens or, if your membership is purchased after opening, on the date of purchase. All cards on your account will have the same expiration date as that of the Primary Cardholder. Membership cards are valid at any PriceSmart location worldwide. You will be required to show your membership card upon entrance at PriceSmart and when paying at the register. Report lost or stolen cards to the PriceSmart Membership Department immediately. You will be charged US$5.00 for the replacement of each card. All membership cards are non-transferable, remain the property of PriceSmart and must be returned upon request.\n\nRenewal, Addition, or Cancellation of Cards\nThe Primary Member must authorize renewal or Cardholder changes, including additions or deletions and is responsible for the entire account. You will be notified of your upcoming renewal each year 1 month before at the cashiers. You may remit your renewal fees at any PriceSmart location in the country of issue. Membership renewal fees must be paid for all Cardholders at the time of renewal. Your renewal will entitle you to an additional 12 months of membership from the date payment for renewal is received or from your applicable expiration date, whichever is longer. You will not receive new cards with each renewal. You will continue using your original membership card.\n\nSatisfaction Guaranteed\nWe will refund your membership fee at any time if you are dissatisfied. Refund will be pro-rated based on the number of months remaining on your current annual membership.\n\nPayment\nPayment can be made by cash, debit cards or credit cards authorized by PriceSmart. (Checks are accepted at some, but not all, PriceSmart locations. The Member will be responsible for the face amount of the check plus a reasonable service charge and other expenses, including legal fees if applicable, for any checks returned by the bank for insufficient funds.) All Business Members who need documentation for tax declaration must inform the cashier before starting the transaction.\n\nReturn/Refund Policy\nPriceSmart will issue a full refund for merchandise returned, along with the original PriceSmart receipt, within 30 days from the date of purchase. Merchandise must be complete, unused, and in its original, unopened packaging with the factory seal intact. Damaged or altered merchandise and perishable items cannot be returned.\n\nItems that fail to work within 30 days from the date of purchase can be returned to PriceSmart for a full refund or exchange. Altered merchandise or merchandise damaged by misuse, accidents, fire, flood or acts of God is not covered by warranty. Merchandise that failed as a result of being used on voltages or circuits for which it was not designed, or fluctuating voltages, may not be returned.\n\nWarranty Policy\nItems that fail more than 30 days after purchase, and within the manufacturers warranty period, will be repaired, exchanged or refunded by PriceSmart at its sole discretion. The original PriceSmart receipt must be presented at time of return. Altered merchandise or merchandise damaged by misuse, accidents, fire, flood or acts of God is not covered by warranty. Merchandise that failed as a result of being used on voltages or circuits for which it was not designed, or fluctuating voltages, is not covered by warranty.\n\nThe PriceSmart Return/Warranty Policy does not apply to any product, or part there of, which has been damaged through: fire, flood, wind, water, electrical voltage fluctuation, improper installation, misuse, alteration, attempts at repair, neglect, accident, or which has experienced removal/defacement of factory seals or serial numbers.\n\nGeneral Policies\nMembers are welcome to bring their children and up to 3 guests into PriceSmart. However, only Members can purchase merchandise. Parents are responsible for their children and should not leave them unattended. Please do not open any merchandise prior to purchasing it. Members are responsible for any opened or damaged merchandise by their guests, children or themselves. PriceSmart reserves the right to inspect any container, purse, backpack or briefcase upon entering or leaving the warehouse.\n\nTo make sure all Members have been charged correctly for the merchandise received, all receipts will be checked upon leaving the club.\n\nPriceSmart is a non-smoking environment. Neither animals nor firearms are permitted inside the building. Shirts and shoes must be worn at all times.\n\nPriceSmart is not responsible for any damage or loss caused, directly or indirectly, by defects in merchandise manufactured by other companies.\n\nPriceSmart is not responsible for damage or loss to vehicles occurring in its parking lots caused by parties not within the control of PriceSmart. Use of the PriceSmart parking lot is at Member's risk."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "80D17CBA-4833-4945-A373-24DE5F72673F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65D35087-BDA2-4618-8465-C3E42520FEA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A20A805-00D8-43BC-808F-6A6034848FCE",
+    "height": 1605,
+    "width": 767,
+    "x": 0,
+    "y": 55
+  },
+  "glyphBounds": "{{0, 4}, {766, 1600}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "We look forward to s",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99E06124-A581-486B-A62C-03817B93C523",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "71F8005A-4F2D-4B8E-8CC0-E8AC2A75F195",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941,
+          "green": 0.1843137255,
+          "red": 0.1764705882
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "paragraphSpacing": 5
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

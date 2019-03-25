@@ -1,0 +1,134 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D9FF9812-C1C7-49EE-BEAD-1F8C03414CFB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "550A6199-ABF8-4C4C-AEDB-7D4C0EBDA544",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47B82AE0-49E7-4335-83E8-FCB6327DE16B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A27532C-1EE2-41B9-89C1-68E924D47D09",
+    "height": 824,
+    "width": 1024,
+    "x": 6832,
+    "y": -917
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EF25A50B-2587-4F43-BB7B-E83815D0D251",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7AFA151A-0F54-4597-AF1B-5B922EB0FC58"
+    },
+    {
+      "class": "group",
+      "id": "1B92A3FB-E805-4E68-BCD4-A7DBDB455560"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "366DA261-E63E-448C-B83A-C3208B0A122C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49448AC4-159E-4916-BB68-73DDB5094543"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D41C40A0-487B-4C64-9B01-D3684B6D1A22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35EABAD9-4410-44C9-B482-82129C810C77"
+    },
+    {
+      "class": "group",
+      "id": "EE51AD20-6D3F-4642-8A58-EFD3D6CC53B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D38FA6F-E1AD-4A03-834B-AF30E94D557B"
+    },
+    {
+      "class": "group",
+      "id": "3D06AF5A-F765-4B44-A828-917A9EDBE9FC"
+    }
+  ],
+  "name": "Co - Colpatria - Credit Card - https://shop.pricesmart.com/tt/en/membership/creditcard",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E36A68B-A635-4F77-AACA-D702D9416884",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A4950FC7-6EF4-43DD-BE1C-A2018ECEC0AE",
+    "guides": [
+    ]
+  }
+}

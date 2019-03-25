@@ -1,0 +1,146 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2A105FBF-2C01-48A0-83ED-0DC7FEABD3E3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2E09A03-AB97-4AD9-AE21-551C34ABD4AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3223144E-BA51-47F1-9357-5B7530957F16",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21E50306-0D6F-4CA2-9486-29EC36011D37",
+    "height": 1157,
+    "width": 1024,
+    "x": 13614,
+    "y": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0A168589-7556-4E38-BA70-54A16D279A04",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "73613D57-3D4E-48C7-AD14-8E430C66CB4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26BD7E54-D1CE-4660-B48F-F1E1693E894F"
+    },
+    {
+      "class": "group",
+      "id": "E7DF3C4E-2C48-4B2B-9EAA-A7523E320DE9"
+    },
+    {
+      "class": "group",
+      "id": "5D15A790-BBA5-405A-9EB0-8E416BCEC39B"
+    },
+    {
+      "class": "group",
+      "id": "DF7CB933-D5AB-4D25-AE9C-E8AF91B2BB0D"
+    },
+    {
+      "class": "text",
+      "id": "8DE80E69-79A6-40BE-BDC1-815E1D57631A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE871CA2-0556-47BC-9AFF-C1D03E1A9DCF"
+    },
+    {
+      "class": "text",
+      "id": "A12D8385-E4CA-439A-80FD-3C86925CBFF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FCC7374-E876-4C07-823D-12213984D96D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3D626DE-7DEE-4F89-B053-7B8E5CD80774"
+    },
+    {
+      "class": "group",
+      "id": "930F2438-3589-4950-A0C0-ED8E838EB997"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3AB0DCE-7668-4D33-A512-06ED752BA2F4"
+    }
+  ],
+  "name": "Subcategory Page - https://shop.pricesmart.com/co/en/inclub/category/1/41/audio#page=1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE4A90FA-992B-4F3E-9F09-4473CBD4B65A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C4CE4481-437E-4009-A120-BAD9B0567B1C",
+    "guides": [
+    ]
+  }
+}

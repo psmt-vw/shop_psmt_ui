@@ -1,0 +1,130 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7BE9F813-2CE1-4450-A9B3-55D5EE32CA74",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4848726-610D-4DDC-9904-2624DD9C6E60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A9CE70D-3761-40CC-A1B7-7FABDBC17107",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B007F4F-1C93-4DA4-B430-9B2104E64F4E",
+    "height": 1404,
+    "width": 1024,
+    "x": 5708,
+    "y": 3015
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8678A887-0A3F-432F-9056-1B5023E6CDFB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A2D25D13-8F12-4C49-A4E8-C2A066E0CA37"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48942549-75C2-46A4-886E-1C647774576C"
+    },
+    {
+      "class": "group",
+      "id": "CE38641C-54B5-4C70-A626-A08D73F1C4CE"
+    },
+    {
+      "class": "group",
+      "id": "0277B9EE-7981-43E5-B489-2C6AFE89E286"
+    },
+    {
+      "class": "group",
+      "id": "E083EFDC-0023-4779-80A9-AE295E9A82B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "811A8146-0315-407B-9E99-B1FBEB88E917"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90E551E4-3A3D-413A-8B1F-2891B069FA79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0575907-4D98-42A3-B51E-286CEC33412C"
+    }
+  ],
+  "name": "Membership PDF - modal - https://shop.pricesmart.com/tt/en/membership",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E3A2003-AED5-4E96-8C5B-3C443552BB9E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6086BD29-B3E6-4AC5-BF19-D4313A14DF99",
+    "guides": [
+    ]
+  }
+}

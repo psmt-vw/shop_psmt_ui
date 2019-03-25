@@ -1,0 +1,115 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1843137255,
+            "red": 0.1764705882
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 5
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 4103,
+        "location": 0
+      }
+    ],
+    "string": "PriceSmart management hosted a conference call on Friday, July 6, 2018, to discuss the Third quarter fiscal year 2018 financial results.\nPlease click here to listen to the recording of conference call or click here for a transcript of the call.\n\nPriceSmart management hosted a conference call on Friday, April 6, 2018, to discuss the Second quarter fiscal year 2018 financial results.\nPlease click here to listen to the recording of conference call or click here for a transcript of the call.\n\nPriceSmart management hosted a conference call on Friday, January 5, 2018, to discuss the First quarter fiscal year 2018 financial results.\nPlease click here to listen to the recording of conference call or click here for a transcript of the call.\n\nPriceSmart management hosted a conference call on Friday, October 27, 2017, to discuss the Fourth quarter fiscal year 2017 financial results.\nPlease click here to listen to the recording of conference call or click here for a transcript of the call.\n\nPriceSmart management hosted a conference call on Thursday, July 06, 2017, to discuss the Third Quarter Earnings.\nPlease click here to listen to the recording of the July 06, 2017 conference call or click here for a transcript of the call. \n\nPlease click here to listen to the recording of the April 07, 2017 conference call regarding the Second Quarter and Fiscal Year 2017 Earnings.\n\nPlease click here to listen to the recording of the January 06, 2017 conference call.\n\nPlease click here to listen to the recording of the October 28, 2016 conference call regarding the Q4 2016 financial results, or click here for a transcript of the call. \n\nPlease click here to listen to the recording of the July 8, 2016 conference call, or click here for a transcript of the call.\nPlease click here to listen to the recording of the April 8, 2016 conference call regarding the financial results of Q2 2016.\n\nPlease click here to listen to the recording of the January 8, 2016 conference call regarding the financial results of Q1 2016.\n\nPlease click here to listen to the recording of the October 30, 2015 conference call regarding the financial results for Q4 2015.\n\nPlease click here to listen to the recording of the July 10, 2015 conference call regarding the financial results for Q3 2015. \n\nPlease click here to listen to the recording of the April 10, 2015 conference call regarding the financial results for Q2 2015, or click here for a transcript of the call. \n\nPlease click here to listen to the recording of the January 9, 2015 conference call regarding the financial results for Q1 2015, or click here for a transcript of the call. \n\nPlease click here to listen to the recording of the October 29, 2014 conference call regarding the financial results for Q4 and fiscal year 2104. \n\nPlease click here to listen to the recording of the July 11, 2014 conference call regarding the financial results for Q3 2014. \n\nPlease click here to listen to the recording of the April 10, 2014 conference call regarding the financial results for Q2 2014. \n\nPlease click here to listen to the recording of the January 10, 2014 conference call regarding the financial results for Q1 2014. \n\nPlease click here to listen to the recording of the October 31, 2013 conference call regarding the financial results for Q4 2013 and FY 2013. \n\nPlease click here to listen to the recording of the July 11, 2013 conference call regarding the financial results for Q3 2013. \n\nPlease click here to listen to the recording of the April 10, 2013 conference call regarding the financial results for Q2 2013. \n\nPlease click here to listen to the recording of the January 10, 2013 conference call regarding the financial results for Q1 2013. \n\nPlease click here to listen to the recording of the October 31, 2012 conference call regarding the financial results for Q4 2012 and FY 2012. \n\nPlease click here to listen to the recording of the July 10, 2012 conference call regarding the financial results for Q3 2012. \n\nPlease click here to listen to the recording of the April 5, 2012 conference call regarding the financial results for Q2 2012."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "42F7ED37-3C41-4C59-99A8-92675D5429A4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69475B20-2B61-4A44-8689-3101406F387C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78C5E45A-B20E-41CB-889F-70F1C187BBA9",
+    "height": 1600,
+    "width": 766,
+    "x": 243,
+    "y": 229
+  },
+  "glyphBounds": "{{0, 4}, {763, 1595}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "PriceSmart managemen",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E124F39E-5BC4-478A-A732-9FF2CE62CD89",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "99CF4211-F2E6-4EAC-ABD1-16E48C9B78AD",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941,
+          "green": 0.1843137255,
+          "red": 0.1764705882
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "paragraphSpacing": 5
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

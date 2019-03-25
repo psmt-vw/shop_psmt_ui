@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AACC44CA-6F9C-45DB-B6F8-32067C3F09F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 92,
+    "width": 267,
+    "x": 384,
+    "y": 358
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Club list2 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "06C588CB-2889-46B1-8600-A78A9A91BAAF",
+      "overrideName": "883F8372-E9A3-4607-A5A7-63A094B35330_stringValue",
+      "value": "Medellin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D6834CD-C814-4174-862E-0EDEC024CF57",
+      "overrideName": "802D8746-1E35-4F78-9A0A-DA11CAAA65A1_stringValue",
+      "value": "Aéreo-Parque, Carrera 70con Calle Primera (Costado Nororiental)\ninfomedellin@pricesmart.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CFA1E375-D666-40B4-9761-791D34CA9D61",
+  "verticalSpacing": 0
+}

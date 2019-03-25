@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4733746F-D45E-438F-A255-650A3A006BB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4DBF899-2CE8-4D48-8E55-2854CF33345F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90C30CEE-81AC-46D0-9FB1-EBD347ECE05D",
+    "height": 113,
+    "width": 757,
+    "x": 0,
+    "y": 55
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header + paragraph",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A40C26C-B08B-4E0D-8A57-E657A48F0CF4",
+      "overrideName": "14903C99-583C-4138-A06C-3F094AF47191_stringValue",
+      "value": "6805 San Isidro, New Club Opening"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3E5F2FC-21F3-41A3-9FB9-BBBC0CC10529",
+      "overrideName": "207C5E1D-2B92-4AD1-85C4-B322FC78184F_stringValue",
+      "value": "This is the fourth Club PriceSmart Inc. opens since 1999 when PriceSmart started operations in the country.\nPriceSmart, the US chain of shopping clubs by membership, opens a new branch in San Isidro, boosting trade in the Eastern Zone of the city."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0E976A1-5455-47C5-A186-790493D4D5FC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C2E9B08B-1D44-49BA-A808-F4C5E5C68154",
+  "verticalSpacing": 0
+}

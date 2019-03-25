@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0277B9EE-7981-43E5-B489-2C6AFE89E286",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E87F5A68-37F8-4437-A474-9BAEA4EC6437",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B13B1F8-F30E-406F-BDD4-9D5077556C44",
+    "height": 629,
+    "width": 352,
+    "x": 111,
+    "y": 414
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C61ACF1C-0A2B-4C3F-8481-C2B289348435"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3265FF3B-86CE-4CB9-A78F-31B81F3F27F7"
+    },
+    {
+      "class": "rectangle",
+      "id": "4F204CBD-1CE3-48A0-B5AB-7EE78388DBCE"
+    },
+    {
+      "class": "text",
+      "id": "D366F645-102D-437F-AD78-030E1F650D47"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FBFCEE6-F714-4D6C-A22E-E0E76248D31F"
+    },
+    {
+      "class": "text",
+      "id": "DF8E1CAC-7569-49B6-AEB8-0BB758D14449"
+    },
+    {
+      "class": "text",
+      "id": "390B93DF-5492-4682-8491-544D4A481FCA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A9A3009-02FC-41A6-9F48-E93C7C91E9FF"
+    },
+    {
+      "class": "text",
+      "id": "95536AF9-8D6A-4D0D-8C7A-6B1D14602295"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02F800F9-0A38-472D-9671-CB77023EF61E"
+    },
+    {
+      "class": "text",
+      "id": "5842CD8E-8DF6-4229-B953-FAE124240C53"
+    },
+    {
+      "class": "text",
+      "id": "B7ABE105-0540-41BD-887D-973D757E286B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99A615E6-B774-4B01-9E95-49D644F801EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DC260D5-86CD-40FA-BD7C-6F182672CE2A"
+    }
+  ],
+  "name": "Diamond",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D6BD0DA-537A-411F-904B-CFB80DAC5813",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

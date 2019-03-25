@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FAA0D5C5-4642-403D-A533-27E0E635FF9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "858589B9-F72E-453F-932F-8047C08C3137",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C78282B3-5AED-4ABE-AEF2-485E95B7F509",
+    "height": 24,
+    "width": 315,
+    "x": 243,
+    "y": 145
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Breadcrumbs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F10993F-19A1-463F-9B07-EB6EB6C1AC56",
+      "overrideName": "739DAFAB-F337-497E-86AE-0DACD820580D_stringValue",
+      "value": "Home › Investor › Contact Investor Relations"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CC2AAF9-0821-4E37-A7AC-B91D54AA9B68",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "863C3628-16F1-4292-8F79-E237D96045DF",
+  "verticalSpacing": 0
+}

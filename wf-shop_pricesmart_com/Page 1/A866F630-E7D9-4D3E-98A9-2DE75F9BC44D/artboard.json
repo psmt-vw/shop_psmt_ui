@@ -1,0 +1,150 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B2833354-46E0-4500-B1BF-4391D8680003",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A866F630-E7D9-4D3E-98A9-2DE75F9BC44D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE777B47-C299-483D-9027-778FD5CF5158",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98872853-841A-4E0A-A0AA-58CE63421810",
+    "height": 1419,
+    "width": 1024,
+    "x": 12490,
+    "y": 9
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "722598ED-1F56-4296-AC28-1A020D4D7946",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1499FEC4-910E-4699-BF21-E05481125403"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7099CE07-6D2C-4CD0-AEF3-2947854BA8C9"
+    },
+    {
+      "class": "group",
+      "id": "EEC793CB-F7B6-4A77-946F-72A635EF59D2"
+    },
+    {
+      "class": "group",
+      "id": "857FD8D1-16DB-4C41-94E1-11514AC1CB36"
+    },
+    {
+      "class": "group",
+      "id": "6783E696-328B-41DF-B6D4-CD23489767FB"
+    },
+    {
+      "class": "group",
+      "id": "E8A34987-39F9-4ACB-A129-6A4F2572B611"
+    },
+    {
+      "class": "text",
+      "id": "A7E441FA-A2E7-450A-BC68-301FB7353034"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "305A939C-B3BC-47FC-B5E5-AFB2A0363B69"
+    },
+    {
+      "class": "group",
+      "id": "C41C90F8-03DD-429E-8DE9-8ACEB6CF6425"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9776CC17-A1AC-4E14-9553-1FE2EA5AD0C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05FDE627-5784-4B70-B4DF-DECF584A7989"
+    },
+    {
+      "class": "group",
+      "id": "0F8F09F9-0309-44E5-945C-4B1D281E41F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3F9C6D1-74A1-4483-A263-0F887AE35DD3"
+    }
+  ],
+  "name": "Category Page - https://shop.pricesmart.com/co/en/inclub/category/1/electronics-department",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D6EC4031-3716-4B02-9397-D7016DA31061",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EECA1F37-B8C0-4B7A-98A7-4B343266380E",
+    "guides": [
+    ]
+  }
+}

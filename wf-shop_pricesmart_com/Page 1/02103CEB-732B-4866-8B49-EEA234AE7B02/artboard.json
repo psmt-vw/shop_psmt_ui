@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A5800611-141A-4D0F-ADC2-E966260F3C1C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "02103CEB-732B-4866-8B49-EEA234AE7B02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3736046-16DF-4547-90E6-DA29C4ECDF7F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC46331C-FC29-463D-8A4F-61CAF4AF3BEC",
+    "height": 390,
+    "width": 1024,
+    "x": 11366,
+    "y": 7555
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "332EE974-66C8-4F39-8B95-D3E79DB63E97",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BC4BB60F-5B36-4DA7-9112-49379EEED93D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E42960C1-0BE6-4E87-B81A-1540635CAD19"
+    },
+    {
+      "class": "text",
+      "id": "2246082B-C5C6-47B8-A4B9-DEF0698E0955"
+    }
+  ],
+  "name": "Confidentiality - Exhibit A to Code - https://shop.pricesmart.com/Investor/Corporate-Governance/Conduct_ExhA3.pdf",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA2FAB34-9A2E-4763-8636-4863FA34F814",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1279DD0E-36F7-45E2-A862-66A47023B8B8",
+    "guides": [
+    ]
+  }
+}

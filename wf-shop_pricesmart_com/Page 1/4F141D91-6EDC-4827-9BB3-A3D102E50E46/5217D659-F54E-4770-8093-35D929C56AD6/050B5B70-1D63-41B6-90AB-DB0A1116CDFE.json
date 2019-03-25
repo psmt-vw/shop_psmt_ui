@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "050B5B70-1D63-41B6-90AB-DB0A1116CDFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0DA9E0E-5C33-4960-B356-5E2BD5A6A9C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDFCA76C-3A20-4072-9897-D1BEDDCDDE58",
+    "height": 24,
+    "width": 390,
+    "x": 620,
+    "y": 18
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "link group no pipe",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D079C028-2C5F-49CD-BFD4-05C461DC4463",
+      "overrideName": "648A9B80-0965-47D9-ABEC-BD40755607F8_stringValue",
+      "value": "Club Locations   Credit Card   Membership   Business Services"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C1F95F8-CB16-4F74-BA27-98A4BFCF37AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3926625D-695E-4EF4-8949-D2EADD073A2B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3413ABFF-3CD9-4CED-B6EE-7D30A802674F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC7F1D49-C774-4DAB-93D6-D5D24D7FBBDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D7D5553D-6BA4-43AC-8BE4-9EB7250C10BF",
+    "height": 466,
+    "width": 215,
+    "x": 14,
+    "y": 375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B48DAA04-ADC7-42DC-8F10-4D2AEB8D8CD1"
+    },
+    {
+      "class": "text",
+      "id": "95B40652-008F-42CD-9554-B8F474982477"
+    },
+    {
+      "class": "text",
+      "id": "40E1551B-3BC1-44B4-8BDD-616CCCA097AA"
+    }
+  ],
+  "name": "sidebar links section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C978ECC-7438-43F9-96BC-D4130A92FD85",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

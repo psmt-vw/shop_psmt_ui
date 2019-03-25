@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DAB8D008-1DE2-4149-955F-7A5CB308C389",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "77A4AC1E-E948-4122-853F-3272065DD184",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52E2968E-8731-48D3-980A-EB4C7180FE04",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FEA0AE0-E208-4F62-9A3E-BBDAA23A7900",
+    "height": 390,
+    "width": 1024,
+    "x": 15862,
+    "y": 5526
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3D5A160A-611A-4EC2-8617-53B93E491606",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2F349AE3-5B44-4DB2-9302-7851A95B7BD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1428202-5EB2-4FA2-B7EB-1CD2CE1E1AE0"
+    },
+    {
+      "class": "text",
+      "id": "C853FDC6-3A1E-4CA1-AF7F-544F228A2D9A"
+    }
+  ],
+  "name": "Nominating / Corporate Governance Committee Charter - https://shop.pricesmart.com/Investor/PDF/Nominating%20Corporate%20Goverance%20Committee%20Charter.pdf",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F76B9F85-3235-46FF-B3BF-4D88FEC2C6E6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "408D99F8-FD6B-4E23-8F76-C110F0F5C415",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1153CD04-A55E-4F80-979C-2763B4198FB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7BA152A-A627-4EAF-8327-78F4803B52CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86F9599E-BE6A-4E03-A537-2C1DC27FD443",
+    "height": 113,
+    "width": 183,
+    "x": 760,
+    "y": 675
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Club list Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "295DC13E-7F17-4542-97C0-38331AEFC8A9",
+      "overrideName": "A7A66909-1493-441B-8C16-2B93A8942BEB_stringValue",
+      "value": "CLUB 8003 - MAUSICA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "658CDC3A-8AB5-4E2A-B7C2-5533D0999AA1",
+      "overrideName": "AA93731E-87CA-4B4A-886A-04FD0525CD89_stringValue",
+      "value": "Maria Pollard\nT. (868) 646-1991 (Ext. 394)\nC: (868) 347-0649\nmpollard@pricesmart.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DBB5F90-DA91-4E68-9FBA-4CC74A5B38E6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EEEECBBE-912F-488E-8E32-A42EFC8720BB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "497F1B1F-E9C3-4D02-B4D7-56817B1A4596",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A9C8021-EEDE-4BE4-82F1-7BE29E70540E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B9879C9-A28D-4D20-8D34-8319CA3FC0F8",
+    "height": 40,
+    "width": 766,
+    "x": 244,
+    "y": 50
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7EF578F2-9319-4F17-AA66-8B5DCFA91BAD"
+    },
+    {
+      "class": "text",
+      "id": "7A7BD7B6-A27C-4CB3-A352-85135545F105"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7187AFE-9C65-49CD-A54E-7C17AA3882BD"
+    }
+  ],
+  "name": "subbar login",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DC71AE9-7695-45C5-AC71-50B72C13F590",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

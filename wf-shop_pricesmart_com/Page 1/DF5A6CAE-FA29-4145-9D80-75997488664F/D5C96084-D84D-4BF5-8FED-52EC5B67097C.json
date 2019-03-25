@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5C96084-D84D-4BF5-8FED-52EC5B67097C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3919FDD9-09FA-414B-AC2D-0DE1A5F066F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FEE176EF-DD40-4A01-9AA2-1F2EBB127BCD",
+    "height": 35,
+    "width": 200,
+    "x": 14,
+    "y": 714
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "social media icons",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C19E688-F4DE-4BBC-BBC6-A65EB5C52699",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7AD613B8-8A5E-4BAB-BCAF-38C3B004EAC7",
+  "verticalSpacing": 0
+}

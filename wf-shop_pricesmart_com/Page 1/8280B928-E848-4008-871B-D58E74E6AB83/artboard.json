@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "86CAE2C7-DF83-4A0C-B04A-33AF81C365E5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8280B928-E848-4008-871B-D58E74E6AB83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D78BBBC-4130-493F-A184-E0D431EC0BCF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4C43000-FDF3-451A-AE92-99D7C6DCD447",
+    "height": 390,
+    "width": 1024,
+    "x": 16986,
+    "y": 5526
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E2BD4882-1FEB-4F31-90F2-D55E8531C94F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FFF33E03-DAA0-4EAA-95BB-7DFF5CB66769"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E3D8DAE-3740-4B88-B0FA-3B53B8DBB01F"
+    },
+    {
+      "class": "text",
+      "id": "E2EA28B1-3A3C-4FFF-9FAE-82F8029B59D6"
+    }
+  ],
+  "name": "Compensation Committee Charter - https://shop.pricesmart.com/Investor/Corporate-Governance/compcomm_charter0413.pdf",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A9355F4-F229-40B7-8A3F-86D635FAB96C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "43DE2C2F-7E66-402F-8332-390B2789BEA3",
+    "guides": [
+    ]
+  }
+}

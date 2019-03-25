@@ -1,0 +1,142 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "229D24FA-2640-4A79-98D3-18474AD31A7B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0793913B-808C-4F25-97FA-74DE2E5ACB21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52DB8F1B-C100-4912-8296-683A202380EA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "812EF750-9586-4AB2-AFE7-C9C8E8A42AD3",
+    "height": 1479,
+    "width": 1024,
+    "x": 11366,
+    "y": 5526
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "26783BD7-6F35-49CA-AE09-A4F995D2D9DC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "56DA8A36-47E3-4B71-9D88-67C406C25519"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5943552A-2CF9-4A32-A423-1C11168D1D17"
+    },
+    {
+      "class": "group",
+      "id": "4A41AAFA-4660-4E50-9F81-4437F9D7497A"
+    },
+    {
+      "class": "group",
+      "id": "AFC84809-B95F-41F3-9DFE-584242DDA2FB"
+    },
+    {
+      "class": "group",
+      "id": "07632401-225C-4558-91DB-F78D8C845398"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88132E1C-9EFA-4317-8141-596CC611CF61"
+    },
+    {
+      "class": "group",
+      "id": "DC7F8063-D5C1-47C2-A16D-703B132A369A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43DDEEF2-3F3B-4C19-9785-E520458A8C3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68A9D3A7-0E8E-41C5-8CBB-B165879FC0FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63050A38-28F3-4C7F-81B0-FDA5EBC7290E"
+    },
+    {
+      "class": "group",
+      "id": "31F94C67-9504-46A7-81C5-98B9ABB9DF6F"
+    }
+  ],
+  "name": "Code of Conduct - https://shop.pricesmart.com/tt/en/investor/corporate-governance/conduct",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CB43C04-0AEF-432A-9A16-A7384F8B2BD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0F0E9FCD-1514-4F3A-8E31-732D31A80427",
+    "guides": [
+    ]
+  }
+}

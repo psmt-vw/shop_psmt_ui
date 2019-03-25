@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CD7A9FD-5B39-4B3F-9A57-6A167947113E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "331D011E-7C19-4E68-8B6C-CF635DEB2738",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "835DB65F-E9C4-433C-895F-D9E1F2ACCA88",
+    "height": 40,
+    "width": 155,
+    "x": 610,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C70CF0A7-C0D0-4DA3-8781-F84F55FD58AF"
+    },
+    {
+      "class": "text",
+      "id": "26F4797E-F418-4536-A6E8-DB1DE5EEA295"
+    },
+    {
+      "class": "oval",
+      "id": "5FB1B66A-E420-4061-A414-93C6A00A0E44"
+    }
+  ],
+  "name": "cart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08DE0194-BF9E-4FEB-B694-AA8479923375",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

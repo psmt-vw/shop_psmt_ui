@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "30582B7F-1983-4E2D-A166-FEF2CEF902F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6828AF0-4AE2-4B2C-AF97-DFE0A4DBBE9E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "840E018A-6AEC-48EB-9671-461C4DD513D4",
+    "height": 235,
+    "width": 175,
+    "x": 14,
+    "y": 470
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7CA77D09-84CC-4D69-AFB4-F6F755AB10C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63912759-B799-4E0C-BC23-6C8224B877B7"
+    }
+  ],
+  "name": "sidebar ads",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE20FDF9-83DC-41B0-95A3-CC0B41A12E12",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A3DA4C90-6E0D-4129-83D9-320892A0D26C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC313ADB-528B-447A-B265-1FBB8CB09331",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2185FCBB-6D42-4681-9AD0-1A7DD649F720",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B87CCD01-E98B-4879-8A71-E5DAB142372A",
+    "height": 682,
+    "width": 1024,
+    "x": 10242,
+    "y": 1586
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "06DABF8D-083E-4C43-80B7-E7773E596A5A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2845E172-2906-40F8-831E-21BF2A13CCC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61E2BFB9-E776-47B1-B840-DA0252E8716E"
+    },
+    {
+      "class": "text",
+      "id": "A58C16BA-7FCC-4670-A1F1-7A200BAF835E"
+    }
+  ],
+  "name": "Investor Relations Presentation - https://shop.pricesmart.com/Investor/PDF/IRP-05212018.pdf",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5EA59B22-300E-4706-B176-BB4940BE67F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2284CDF8-17A6-4DC9-B27B-D538EB45D4A9",
+    "guides": [
+    ]
+  }
+}

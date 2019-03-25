@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "15287B71-FBE6-44B3-AE30-0D3CCAA15F85",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC485C5D-BE5D-4325-86D8-78AFED9DC250",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13A73DBF-B322-4707-9462-C1A25BDA7B8F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8AA89A6-F8AD-4D97-B675-E90BFB7D70A5",
+    "height": 390,
+    "width": 1024,
+    "x": 11366,
+    "y": 9355
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C9D8796D-00AA-42F7-8895-87FC5BB496FD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "07551AC7-025F-4362-9CFB-B6A423B177B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4D9BD64-C510-4FCC-A3D2-1051BBCC58BE"
+    },
+    {
+      "class": "text",
+      "id": "5FE40277-95F5-4682-825B-EB13214BCA2D"
+    }
+  ],
+  "name": "Foreign Corrupt Practices Act -  https://shop.pricesmart.com/Investor/Corporate-Governance/Conduct_ExhE.pdf",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7A92E64-AEE4-4B9A-95E1-FE4543CC4CD3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4F89C942-7542-4A02-9DDB-14CBB02C38B5",
+    "guides": [
+    ]
+  }
+}

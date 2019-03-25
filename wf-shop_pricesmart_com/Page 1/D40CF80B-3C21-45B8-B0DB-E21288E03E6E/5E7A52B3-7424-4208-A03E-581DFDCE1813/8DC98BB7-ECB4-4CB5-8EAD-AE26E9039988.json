@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DC98BB7-ECB4-4CB5-8EAD-AE26E9039988",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F69F6EE9-DAF4-432E-BC7E-DC12C0C60789",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06F2E4C0-D77D-4F6E-BB7C-33A6AD94942C",
+    "height": 113,
+    "width": 508,
+    "x": 0,
+    "y": 212
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header + paragraph Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "013CE388-B447-46BF-8744-5B343487AB09",
+      "overrideName": "14903C99-583C-4138-A06C-3F094AF47191_stringValue",
+      "value": "High Quality, Low Prices"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88283D1A-41B1-4788-8733-51E570419419",
+      "overrideName": "207C5E1D-2B92-4AD1-85C4-B322FC78184F_stringValue",
+      "value": "At PriceSmart you will find high quality local and imported merchandise at everyday low prices. We have a team of buyers who carefully select the top brands in each category and negotiate the best price on each item. In other words, we do the comparison shopping so you don't have to!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE7DCD56-287B-4F31-8598-496045C57EEF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C2E9B08B-1D44-49BA-A808-F4C5E5C68154",
+  "verticalSpacing": 0
+}

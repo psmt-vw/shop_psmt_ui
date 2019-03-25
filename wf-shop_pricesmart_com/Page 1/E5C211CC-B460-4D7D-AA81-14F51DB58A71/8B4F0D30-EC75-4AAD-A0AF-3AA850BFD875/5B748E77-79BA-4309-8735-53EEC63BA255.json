@@ -1,0 +1,115 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1843137255,
+            "red": 0.1764705882
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
+            "paragraphSpacing": 5
+          }
+        },
+        "length": 2234,
+        "location": 0
+      }
+    ],
+    "string": "30-Day Return Period - Not Defective or Damaged\nJewelry cannot be returned. For all other items, PriceSmart will issue a full refund for merchandise returned, along with the original PriceSmart receipt, within (30*) days from the date of purchase / receipt. (Not applicable for Colombia(**)). Merchandise must be complete (including any manuals and accessories), unused, and in its original, unopened packaging with the factory seal intact. Damaged or altered merchandise and perishable items cannot be returned. The original PriceSmart receipt must be presented at time of return (Not applicable for Colombia(**)).\n\nDefective & Damaged Merchandise\nItems that are demonstrably defective or fail to work within (30*) days from the date of purchase / receipt can be returned to PriceSmart for a full refund or exchange. The original PriceSmart receipt must be presented at time of return (Not applicable for Colombia (**)). Altered merchandise or merchandise damaged by misuse, accidents, fire, flood, or acts of God, or that failed as a result of being used on voltages or circuits for which it was not designed, or fluctuating voltages, may not be returned or covered by warranty.\n\nWarranty & Repair\nItems that fail more than (30*) days after purchase / receipt and within the manufacturers’ warranty period will be repaired, exchanged or refunded by PriceSmart at its sole discretion. \n\nThe original PriceSmart receipt must be presented at time of return (Not applicable for Colombia (**)). Altered merchandise or merchandise damaged by misuse, accidents, fire, flood or acts of God is not covered by warranty. Merchandise that failed as a result of being used on voltages or circuits for which it was not designed, or fluctuating voltages, is not covered by warranty. \n\nSome brands that PriceSmart sells have service clubs and workshops within a member country.  In this case, the service club/workshop will cover the warranty directly. The member must take the item directly to their service workshops. Please consult the repair procedure when removing the article from the club.\n\nAny item that the member wants to return for other reasons should be taken to the nearest club. PriceSmart does not have a service to pick up returns."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B748E77-79BA-4309-8735-53EEC63BA255",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 651,
+    "width": 764,
+    "x": 2,
+    "y": 39
+  },
+  "glyphBounds": "{{0, 4}, {763, 639}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "30-Day Return Period",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "718E3D48-9E51-4671-834A-071E0E77D49E",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61033275-7786-4B5E-B959-164461E54486",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941,
+          "green": 0.1843137255,
+          "red": 0.1764705882
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
+          "paragraphSpacing": 5
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D379C062-499E-41EA-8FBD-0C9E5D79903E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62973437-F02F-40E2-B93F-7A4D66C07CEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7FD833A-95D7-4816-8C36-AC604E5A4716",
+    "height": 121,
+    "width": 548,
+    "x": 0,
+    "y": 55
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header + paragraph",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A40C26C-B08B-4E0D-8A57-E657A48F0CF4",
+      "overrideName": "14903C99-583C-4138-A06C-3F094AF47191_stringValue",
+      "value": "APRENDER Y CRECER (LEARNING & GROWING)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3E5F2FC-21F3-41A3-9FB9-BBBC0CC10529",
+      "overrideName": "207C5E1D-2B92-4AD1-85C4-B322FC78184F_stringValue",
+      "value": "Aprender y Crecer is a program dedicated to supporting public education in Latin America and the Caribbean. Founded in 2006 by Price Philanthropies, a private nonprofit foundation established by the founders of PriceSmart, Aprender y Crecer’s mission is to provide educational materials to students in public schools in order to inspire both teachers and parents to improve the educational experiences of children."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF6D5060-088A-4909-9803-449C88F88202",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C2E9B08B-1D44-49BA-A808-F4C5E5C68154",
+  "verticalSpacing": 0
+}

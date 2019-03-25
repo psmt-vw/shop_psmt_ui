@@ -1,0 +1,115 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1843137255,
+            "red": 0.1764705882
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 5
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 5179,
+        "location": 0
+      }
+    ],
+    "string": "Why do I have to be a member to shop at PriceSmart?\nOur goal is to provide such great value that you will save your annual membership fee many times throughout the year. The annual fee we collect from our members offsets many of our operational costs, so we can keep our prices as low as possible. Many of our members save the amount of their membership fee in the first few trips to PriceSmart. We are convinced that our Membership has great value because it allows our members to save all year round.\n\nWhere can I use my PriceSmart membership?\nYour membership is international and you can use it in any of the 12 countries and one U.S. territory where we operate (the number of clubs in each country is in parentheses): Colombia (7), Costa Rica (7), El Salvador (2), Guatemala (3), Honduras (3), Nicaragua (2), Panama (5), Aruba (1), Barbados (1), Dominican Republic (4), Jamaica (1), Trinidad and Tobago (4), U.S. Virgin Islands (1).\n\nCan someone else shop with my membership card?\nNo, PriceSmart membership is non-transferable; if you lend your card to another person he/she will not be able to shop with it.\n\nCan I bring a friend with me to PriceSmart who is not a member?\nYou may bring up to three guests into a club each time you shop; however, only PriceSmart members may purchase items. Of course your friends are always welcome to join PriceSmart!\n\nWhy do I have to show my membership card upon entrance to the Club?\nSince our members pay a fee to shop at PriceSmart, we do not allow non-PriceSmart members to shop. Your picture appears on the card because your membership card can be used only by you and is non-transferable. Your picture also prevents unauthorized use should your card ever be lost or stolen.\n\nWhy am I asked to show my receipt as I exit the Club?\nStaffing the doors is our most effective method of maintaining accuracy in inventory control. It benefits both us and our members. This practice ensures that you received everything you paid for and were not overcharged or undercharged for any item.\n\nWhat types of payment are accepted at PriceSmart?\nWe accept the following types of payment (please note that the only credit card accepted at PriceSmart Nicaragua are American Express and the cobranded PriceSmart Credomatic American Express):\n- Cash \n- Debit Card \n- Credit Cards \n- PriceSmart Visa credit card (Central America only) \n- Checks (Business Members, previous authorization) \n- Gift Certificate / Cash Card \n- Smart Checks (Central America only) \nWhy are there no Express lines at PriceSmart?\nThe majority of our members typically purchase a large quantity of products during their shopping visits to our clubs; Currently, our members purchases an average of 13 items each and every time he or she shops. In addition, operating an express checkout line adds additional overhead costs, thereby up our cost of doing business.\n\nWhy don't you have sales or discounts?\nOur goal is to provide you with low prices every day; and therefore we do not run off-price sales, or offer coupons, rebates, or discounts.\n\nDo elderly people (seniors) get a discount?\nWe believe that all of our members regardless of age deserve the best prices on our products, and therefore there are no discounts based on age. Our employees don't even get a discount, as our prices are as low as possible.\n\nHow do I renew, add or delete cards to my account?\nRenewals fees are due 12 months after your sign up or make a renewal payment. We will automatically extend your membership for an additional 12 months from the date we receive your renewal fee. You will not receive new membership cards each year. Membership renewal must be completed for all card holders on the membership account when the renewal is processed. Diamond Members may be renewed at the cashiers. Business Members should be renewed at the membership counter.\n\nHow do I know when my membership expires?\nYou can check your membership expiration date by clicking here. If you visit us frequently, our cashiers will let you know before paying your merchandise that your membership will expire on your next visit, and you will be invited to renew it at that time. Also, we will call to remind you that your membership has expired, and will offer you the different options to renew it.\n\nIf I decide to renew my membership in person, do I have to go to the club where I originally signed up?\nNo, you can renew you membership at any club in the country where you signed up.\n\nCan I change my additional cardholders every year?\nAbsolutely. It is up to the primary member to decide which additional memberships will be renewed. You may change or add supplemental members at the PriceSmart membership counter inside our clubs.\n\nWhat do I do if my membership card is stolen or lost?\nWe will ask you to come to any Membership Counter at your closest PriceSmart warehouse club with an official picture ID. The replacement fee is $5.00 U.S.\n\nCan I return an item to any PriceSmart location?\nOur members are always first, so if one of our members wants to return an item from another country and has the receipt and is in the refund time frame, meaning this that fulfill our refund policy, YES we will make the refund."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2ABAB26A-2BDE-427C-9CED-56D18FE76DB8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D98AE206-26D9-4B8B-9210-45F2AD550041",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "73131C69-80DD-4F61-931F-D59C974B11E6",
+    "height": 1780,
+    "width": 767,
+    "x": 0,
+    "y": 56
+  },
+  "glyphBounds": "{{0, 4}, {766, 1775}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Why do I have to be",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A69903C-C3E8-40CA-ABED-0D1E6817D315",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "A4F09F6B-0E3B-44DD-9928-BE414963B79B",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941,
+          "green": 0.1843137255,
+          "red": 0.1764705882
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "paragraphSpacing": 5
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

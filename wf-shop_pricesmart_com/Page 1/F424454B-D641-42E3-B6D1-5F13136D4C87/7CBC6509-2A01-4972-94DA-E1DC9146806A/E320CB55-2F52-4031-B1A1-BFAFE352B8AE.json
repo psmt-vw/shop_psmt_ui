@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1843137255,
+            "red": 0.1764705882
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 8
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1635,
+        "location": 0
+      }
+    ],
+    "string": "Aprender y Crecer—with support and contributions from PriceSmart and its members—donates a package of school supplies to each participating student, as well as materials for teachers in participating schools. Since 2006, the program has provided more than 539,000 school supply packages to participating students. Additionally, the program provides educational materials, literature collections for school libraries, and cleaning supplies for the schools. In return, these schools develop and implement a continuous improvement plan to encourage reading and improve their students’ reading skills. \nOne of Aprender y Crecer’s primary goals is to promote reading, both in the classroom and at home. Since its inception, the program has provided more than 372,000 books to students to keep as their own, as well as more than 113,000 books to school libraries. In 2018, Aprender y Crecer will provide up to four books to every student participating in the program, depending on their grade level. What’s more, Aprender y Crecer organizes professional development for teachers to strengthen reading instruction, and workshops for parents to promote reading at home.\nAprender y Crecer continues to grow in the region and currently benefits approximately 105,000 students and 5,000 teachers in more than 200 primary schools in Colombia, Costa Rica, the Dominican Republic, El Salvador, Guatemala, Honduras, Nicaragua, and Panama. \nClick here to see the latest version of Conexiones, the newsletter of Aprender y Crecer. For more information, please visit http://www.aprenderycrecer.org and follow Aprender y Crecer on Facebook and Instagram."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E320CB55-2F52-4031-B1A1-BFAFE352B8AE",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 328,
+    "width": 749,
+    "x": 0,
+    "y": 209
+  },
+  "glyphBounds": "{{0, 4}, {746, 323}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Aprender y Crecer—wi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941,
+          "green": 0.1843137255,
+          "red": 0.1764705882
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "paragraphSpacing": 8
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

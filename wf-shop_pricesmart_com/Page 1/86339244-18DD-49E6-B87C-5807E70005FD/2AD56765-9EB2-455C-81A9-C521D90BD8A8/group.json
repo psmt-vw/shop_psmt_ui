@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2AD56765-9EB2-455C-81A9-C521D90BD8A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 368,
+    "x": 1,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "95DA8223-EC8F-4AFB-8658-3EDC79C0B710"
+    },
+    {
+      "class": "group",
+      "id": "F64E6657-9898-44AF-8441-05BD5660FE89"
+    },
+    {
+      "class": "group",
+      "id": "E75BBE06-B0DE-48A5-90D2-90FF99C6EE5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E75BD9C-3D59-46DF-8014-0EC736F8FC71"
+    },
+    {
+      "class": "text",
+      "id": "5CB9C029-A132-41B1-9F58-579B52C0AC60"
+    }
+  ],
+  "name": "newsletter dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

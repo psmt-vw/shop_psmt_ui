@@ -1,0 +1,115 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1843137255,
+            "red": 0.1764705882
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 5
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 3412,
+        "location": 0
+      }
+    ],
+    "string": "Where is PriceSmart's corporate headquarters?\nPriceSmart's corporate office is located at 9740 Scranton Road, San Diego, California, USA.\n\nWhat is PriceSmart's fiscal year?\nPriceSmart's fiscal year runs from September 1st through August 31st each year. The Company is currently in its fiscal year 2018.\n\nWho are PriceSmart's independent auditors?\nErnst and Young LLP.\n\nWho is PriceSmart's transfer agent?\nComputershare Shareholder Services.\n\nHow is PriceSmart's stock traded?\nPriceSmart's common stock in traded on NASDAQ's Global Select Market under the symbol PSMT.\n\nDoes PriceSmart pay dividends, and if so, when are they paid?\nThe Company paid dividends in fiscal years 2007 - 2017. For 2017, the Board of Directors has declared cash dividends in the total amount of $0.70 per share, with $0.35 per share payable on February 28, 2017 to stockholders of record as of the close of business on February 15, 2017 and $0.35 per share payable on August 31, 2017 to stockholders of record as of the close of business on August 15, 2017.\n\nWhen will the most recently completed quarter's earnings be announced?\nPriceSmart released fiscal year 2017 financial results on October 26, 2017.\n\nDoes PriceSmart release monthly sales figures?\nMonthly sales and monthly comparable warehouse club sales for warehouse clubs open at least 13.5 months are released on or about the 7th of the following month (but not on a weekend).\n\nDoes PriceSmart hold scheduled conference calls after the release of monthly sales or quarterly earnings?\nPriceSmart management hosted a conference call on Friday, October 27, 2017, to discuss the financial results of Fiscal Year 2017. Please click here to listen to the recording of the October 27, 2017 conference call.\n\nFor recordings of prior conference calls, please click here.\n\nInvestors, analysts, or fund managers are invited to contact PriceSmart's CFO, John Heffner, at 858-404-8826 or at jheffner@pricesmart.com, with any questions they have about the Company's results.\n\nWhen is PriceSmart's annual shareholder meeting?\nPriceSmart's annual shareholder meetings are typically held in January or early February. The last Annual Meeting of the Stockholders of PriceSmart, Inc. was held on February 1, 2017, at the Company’s corporate headquarters, 9740 Scranton Road, San Diego, California.\n\nWhen is PriceSmart's annual report distributed?\nThe annual report to shareholders is generally sent 40-45 days prior to the annual meeting. The annual report for fiscal year 2016 was sent out in early and middle December 2016.\n\nWhere can I find information on PriceSmart's filings with the Securities and Exchange Commission?\nA link to PriceSmart's filings with the Securities and Exchange Commission is available here. You can also go directly to the SEC's Web site at www.sec.gov and search for either \"PriceSmart\" or PriceSmart's ticker symbol \"PSMT\".\n\nIn which countries does PriceSmart operate?\nPriceSmart currently operates in twelve countries and one U.S. territory: Colombia, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama, Aruba, Barbados, Dominican Republic, Jamaica, Trinidad and Tobago, and the U.S. Virgin Islands.\n\nWhat are PriceSmart's plans for expansion to other countries?\nPriceSmart opened three warehouse clubs in Colombia in 2011-13 and opened three additional warehouse clubs in Colombia in 2014. PriceSmart opened a new Warehouse Club in Colombia in 2016."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CBE50BE3-A11D-499A-95A7-FCA146EB7C8E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29450290-28C0-4A8E-8187-AC05D453D047",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "970560E5-1C5E-4A27-BC65-C02A3342CFD6",
+    "height": 1341,
+    "width": 766,
+    "x": 243,
+    "y": 229
+  },
+  "glyphBounds": "{{-1, 4}, {766, 1336}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Where is PriceSmart'",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23A35EAA-54FC-4EDB-AC34-DBAFDF1A9D7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "819C99D9-D905-4853-868E-7ADB5E06A84E",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941,
+          "green": 0.1843137255,
+          "red": 0.1764705882
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "paragraphSpacing": 5
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

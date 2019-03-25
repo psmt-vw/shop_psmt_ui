@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FF1CA66E-23E3-482F-8488-60BFC0652505",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "718309A7-1B2A-4668-A260-5F3395B1CED1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4E5126F-935B-438C-810E-FB020C771CB0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF98FA45-003F-46AD-B942-28A50001B9BB",
+    "height": 390,
+    "width": 1024,
+    "x": 11366,
+    "y": 8455
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "39BF811C-58DE-4142-AD12-F568063C9347",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F1BDEB15-014C-4769-AE3D-30C840556EBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80D995CC-6E29-4976-9213-47ED1D1B4C13"
+    },
+    {
+      "class": "text",
+      "id": "F93F95F4-A9A9-4731-B3E8-8C41C2034EBA"
+    }
+  ],
+  "name": "Insider Trading - https://shop.pricesmart.com/Investor/Corporate-Governance/Conduct_ExhC2.pdf",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC0C04D0-1F80-4B3D-B93B-51A0D029AF5F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6C78FAE1-F595-4945-A2F5-2065430FE7C8",
+    "guides": [
+    ]
+  }
+}

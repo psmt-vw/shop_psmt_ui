@@ -1,0 +1,170 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "39150523-4C55-4D37-BA18-6DB66CB64594",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCCE5076-B5B1-46D1-A0E8-56056B8605C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D4A2FC8-127C-4619-997E-05EBA50F4AA6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86041BB5-89DC-45AE-84FA-CBFAAB9DF216",
+    "height": 1686,
+    "width": 1024,
+    "x": 11366,
+    "y": 7
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E916FF64-39B5-4BFE-949A-B71DE9A12E11",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D04F9E0A-CEAB-4A06-B0BA-F3B5E263B3FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EEF5E11-1099-473B-A548-0AE625FEAA5F"
+    },
+    {
+      "class": "group",
+      "id": "0303DA45-9923-4F15-B574-7BE097A72113"
+    },
+    {
+      "class": "text",
+      "id": "FF5F4F0D-8147-4625-8644-B53D1DFE6330"
+    },
+    {
+      "class": "text",
+      "id": "D33A4ECA-0F3C-43A7-AC22-BDCFD5003ABA"
+    },
+    {
+      "class": "group",
+      "id": "B6611151-BE17-472B-A433-DCFC07F8C8E7"
+    },
+    {
+      "class": "group",
+      "id": "D33291A6-8C59-4ADE-9354-5CA9E05C1A65"
+    },
+    {
+      "class": "group",
+      "id": "C82435E9-0B1A-4543-A866-261F6EA21335"
+    },
+    {
+      "class": "group",
+      "id": "3424DD64-E39A-4F70-9BD1-D2D1FB360FE0"
+    },
+    {
+      "class": "group",
+      "id": "B1ECDBD1-B3B7-43E6-BBDC-F5DDB2B8329B"
+    },
+    {
+      "class": "group",
+      "id": "2564EA03-9F19-480E-ABF5-F8443DE7DDC7"
+    },
+    {
+      "class": "text",
+      "id": "BDC01D8A-D958-466B-BCB3-C4B9AD5AFBAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5974673C-EF04-44D0-990D-7E9724B78896"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6459443F-68A3-480A-B9C7-5FCC5EB9EBA2"
+    },
+    {
+      "class": "group",
+      "id": "BA3D9272-6284-419E-8DC2-7CB538542864"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B809A21C-9088-4EA4-B903-055E5461D6C0"
+    },
+    {
+      "class": "rectangle",
+      "id": "F11B8831-712B-4467-98F1-8F2B5460AA3B"
+    },
+    {
+      "class": "group",
+      "id": "341703F5-9ED9-4D94-9D86-542CD8AA644C"
+    }
+  ],
+  "name": "Colombia State/City Selectors - https://shop.pricesmart.com/CO/EN/inclub",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6643A8C2-FC58-404B-BB07-C4394986F7DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5A634BFC-A6A9-4CA0-A380-84EC31424337",
+    "guides": [
+    ]
+  }
+}

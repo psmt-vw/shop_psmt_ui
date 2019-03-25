@@ -1,0 +1,143 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8339F6B8-AB27-47E4-8C51-22C197E1BAA5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F83A1BD-783A-44D8-980C-D298E80F3BAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC1693A7-F585-4753-B04C-BA231502FA6B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17BAF485-3632-4E63-926B-37C3FDBCE775",
+    "height": 2292,
+    "width": 1024,
+    "x": 19234,
+    "y": 5526
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3979C702-323E-4B41-820A-37B6A41CEBDC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C87D55C7-DEC4-4EA7-84C4-4E50D96B6BC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B454D879-D0F6-43E8-8891-C9AA7FBFCFE2"
+    },
+    {
+      "class": "group",
+      "id": "BF870A31-B336-4998-89F7-96171119F8F6"
+    },
+    {
+      "class": "group",
+      "id": "BA024F9B-22DA-44DA-9949-63DBBEF0BEC0"
+    },
+    {
+      "class": "group",
+      "id": "AD6C3C06-F8FB-446B-9E1A-BA97BF72CE86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FC0815E-E58B-453B-BADC-2C63FBB0FFC2"
+    },
+    {
+      "class": "group",
+      "id": "E083515F-D6B5-4757-B2B7-86589FCEDA6B"
+    },
+    {
+      "class": "group",
+      "id": "2E5050CA-0536-44FA-BA24-9245ED235B07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EEF98C0-89F4-4093-B7ED-F5809C2BCA1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43AE9F25-480F-433D-87B3-499BB6E9AF31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9F660E3-295F-48D3-8979-7D6C8FB25F5F"
+    }
+  ],
+  "name": "Management Team - https://shop.pricesmart.com/tt/en/investor/corporate-governance/management",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05C18E92-F5AC-4EBA-8717-4059778ADD53",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D7F88DC7-4F95-4779-B65B-82EF58647490",
+    "guides": [
+      92
+    ]
+  }
+}

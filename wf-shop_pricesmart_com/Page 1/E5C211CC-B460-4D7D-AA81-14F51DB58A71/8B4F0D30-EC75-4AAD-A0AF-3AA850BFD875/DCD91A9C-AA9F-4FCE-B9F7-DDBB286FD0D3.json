@@ -1,0 +1,117 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1843137255,
+            "red": 0.1764705882
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
+            "paragraphSpacing": 5
+          }
+        },
+        "length": 4584,
+        "location": 0
+      }
+    ],
+    "string": "30-Day Return Period\nNo refunds for jewelry.  For all other products, PriceSmart will refund you for merchandise you return within thirty (30*) days from the date the goods are received less a 15% restocking fee. Express delivery expenses or local transport costs (if applicable) will not be refunded.\n\nAll goods must be complete (including any manuals or accessories), unused and in their original unopened and factory sealed condition. Damaged or altered goods and perishable items cannot be returned. To receive a refund, the member must present the original receipt, PriceSmart Membership card, and Credit Card used to make the purchase (Not applicable for Colombia(**)).\n\nDefective & Damaged Merchandise\nItems that do not work on first use may be returned to PriceSmart for a full refund within thirty (30*) days after the date the merchandise was received. Items altered or damaged through misuse by the member, accidents, fire, and flooding, natural disasters while in possession of the member, or which fail due to being used in voltage or circuits for which it is not designed, or by voltage fluctuations cannot be returned and are not covered by the warranty.\n\nIf the member wishes to buy the same item after it has been refunded, or a replacement item, they must re-order the item through our website.\n\nWarranty & Repair\nItems that fail after thirty (30*) days after purchase and that are within the manufacturer's warranty period will be repaired or refunded at the sole discretion of PriceSmart.\n\nThe member must present the original receipt to PriceSmart when requesting a refund or repair (Not applicable for Colombia(**)). Items altered or damaged through misuse by the member, accidents, fire, and flooding, natural disasters while in possession of the member, or which fails due to being used in voltage or circuits for which it is not designed, or by voltage fluctuations, cannot be returned and are not covered by the warranty. \n\nSome brands that PriceSmart sells have service clubs and workshops within a member country.  In this case, the service club/workshop will cover the warranty directly. The member must take the item directly to their service workshops. Please consult the repair procedure when removing the article from the club.\n\nAny item that the member wants to return for other reasons should be taken to the nearest club. PriceSmart does not have a service to pick up returns.\n\nCancellation of Online Orders\nIf a member wishes to cancel their order before receiving it, but within two (2) business days subsequent to the creation of the order, PriceSmart will make a full refund in the case where the funds had already been transferred to PriceSmart. \n\nIf the member wishes to cancel their order before receiving it, but after the period of two (2) business days subsequent to the order creation, the member will be reimbursed for the canceled order if the funds had already been transferred to PriceSmart, less a 15% restocking fee. The Express shipping and local shipping charges will not be refunded. The member must submit a copy of the e-mail confirmation of the order of PriceSmart for reimbursement.\n\nOccasionally, after confirming an order and delivery time, we may be unable to fulfill the order due to our supplier's availability (generally online purchases are products being ordered specifically for the member and are not maintained in inventory). In these rare cases, after the order is confirmed, we may find that there is no effective availability for the product.  We will send an email notifying the cancellation of your order. PriceSmart will refund the full amount charged to the credit card at the club previously stated in the purchase order, the club where an item would be delivered, or at the nearest club.\n\nCancellations for not picking up goods in the club\nWe will notify members via email when merchandise arrives at the club. The member must pick up the items within (20) working days after receiving this notice.  \n\nUnfortunately, if the product is not removed within the specified time frame, we will proceed with the cancellation of the order and refund the amount of the order less a 15% restocking fee, in the same club previously stated in the order or the club where the item would have delivered. Express shipping charges will not be refunded. \n\n* In Honduras, the period is 60 days\n\n** Members in Colombia are not required to present the original receipt. They can either present a copy of the invoice or can go to the membership counter at the club and validate if the purchased item is under warranty or not."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DCD91A9C-AA9F-4FCE-B9F7-DDBB286FD0D3",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B943DDC7-CD64-43F9-BD0E-8428747CF335",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "012D6F8F-05A6-4014-BB95-63674C6006DE",
+    "height": 1441,
+    "width": 764,
+    "x": 1,
+    "y": 749
+  },
+  "glyphBounds": "{{0, 4}, {764, 1419}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "30-Day Return Period",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "718E3D48-9E51-4671-834A-071E0E77D49E",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A619958-8CF8-4A46-AD4E-F03E98E9CE38",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941,
+          "green": 0.1843137255,
+          "red": 0.1764705882
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
+          "paragraphSpacing": 5
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

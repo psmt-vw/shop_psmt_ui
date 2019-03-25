@@ -1,0 +1,25 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "0B874739-7C8A-4C8B-9637-0EDB6C16ABE2",
+  "name": "Footer/Roboto/XS",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 11
+          }
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

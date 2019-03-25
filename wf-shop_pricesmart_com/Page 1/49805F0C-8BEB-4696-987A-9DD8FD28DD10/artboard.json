@@ -1,0 +1,150 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AAFF1646-7170-406B-A331-7BA04E67DCDB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "49805F0C-8BEB-4696-987A-9DD8FD28DD10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C46696CC-FE58-4E44-A273-9674F2E55235",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9883EFF-5761-48EC-AE6E-453FF27ED6C2",
+    "height": 1479,
+    "width": 1024,
+    "x": 10242,
+    "y": 8684
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CB38296F-C8CE-441D-BE0E-60A66B5A9609",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AE4D35E7-C24D-4ACB-A50B-4062DF000E2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CBF6381E-A60C-4601-8DAA-F75E8551555B"
+    },
+    {
+      "class": "group",
+      "id": "569830FD-2E8D-4A37-882C-C2B78C76B8AF"
+    },
+    {
+      "class": "group",
+      "id": "BD6D0C9D-0084-471D-89B1-EB381ECC77DC"
+    },
+    {
+      "class": "group",
+      "id": "967C9CCB-E37B-44F7-A243-47683E2B4649"
+    },
+    {
+      "class": "group",
+      "id": "C14F4357-A16C-4E4A-812B-8E589435BA8F"
+    },
+    {
+      "class": "group",
+      "id": "54927C2C-C6B3-40EB-8962-07FF65E32A7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9083C04D-FCAC-4FBC-A1F9-1378FFB26B33"
+    },
+    {
+      "class": "group",
+      "id": "5F804E40-EB2B-4A20-900A-4AA546AC7AB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54CF75B9-EF2D-4256-B528-4FAFF467349E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBB9DAB6-7750-447D-9CD6-73E60AA57B5D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8F2613F-2373-4DF6-8209-9EB9BBEB93F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13EF4EA9-4CF3-485D-9789-425918A46D6D"
+    }
+  ],
+  "name": "SEC Filings - https://shop.pricesmart.com/tt/en/investor/sec-filings",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2CFF811B-6D3E-450B-8FBE-5497965A8071",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5FD167C3-6C8A-4988-BE53-D59CE98F028D",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F698BB1E-7B1B-40B3-A154-ED8653C04D3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 320,
+    "width": 426,
+    "x": 87,
+    "y": 414
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C9E2677C-1C39-4051-A277-6D2FD642FC14"
+    },
+    {
+      "class": "text",
+      "id": "CE486C72-419E-4D53-A1FC-620DE47C0D5E"
+    },
+    {
+      "class": "group",
+      "id": "9ED12415-7859-41BB-8D75-CA4AD58CE609"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7ED4C4A1-1886-4382-BFD3-84913D4404B1"
+    },
+    {
+      "class": "text",
+      "id": "DCB4A0E8-D052-48B4-9426-03D903122297"
+    },
+    {
+      "class": "text",
+      "id": "4AAE3382-A46C-4BB1-8375-5AE625CCEDFC"
+    }
+  ],
+  "name": "business form group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

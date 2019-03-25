@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2047BCF-5819-45FA-9FCA-8BF5489DF9B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53DB96E3-5A86-474A-946F-F77A63D2B54B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08EB1382-55B6-4525-B370-D6F6C0D69E73",
+    "height": 35,
+    "width": 200,
+    "x": 14,
+    "y": 3847
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "423D0677-354D-4E35-9A88-29D6385AC7A1"
+    },
+    {
+      "class": "oval",
+      "id": "C2C24265-D362-421F-833E-1DEEB90AC18F"
+    },
+    {
+      "class": "oval",
+      "id": "DA25F299-59ED-41A3-A31D-9928E28034DC"
+    },
+    {
+      "class": "oval",
+      "id": "D5FCE4E4-3F9D-4664-B5D7-CB6B40CCCEF8"
+    }
+  ],
+  "name": "social media icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9568B4B3-9990-4D92-B8DB-A9B6095EA9B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

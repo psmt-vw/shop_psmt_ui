@@ -1,0 +1,150 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8DA6BBED-34C7-40F6-965E-CFCD3F4BF023",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1CA2EE3-EA55-49D8-BC69-5A1C273C8D40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17A6D571-46F4-46A2-9D7C-321D061DB22A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7088C94-4FA9-4EE0-BDBE-210693FC5C12",
+    "height": 1531,
+    "width": 1024,
+    "x": 4584,
+    "y": -1624
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BEF26E2B-5348-4851-8B0C-D6AC477C76F6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "18DA9551-0811-4696-8E60-A0C47078FDBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CD8AAFB-DBD2-48F3-A2B2-EF26B8B2CF38"
+    },
+    {
+      "class": "group",
+      "id": "8DB773B5-EF8E-4506-A00C-D9BB0BF1E8EA"
+    },
+    {
+      "class": "group",
+      "id": "3EDC6899-A217-42E6-A873-2CF754611F83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA53D2BB-E1F6-428B-A902-62C973061788"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FA7A25D-E659-4EE7-8893-1C84D0C42759"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E9E2065-19FD-4805-92DB-47DE98BF6E54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0D41DE9-7798-4A9A-80BB-6D2E32C2D5F3"
+    },
+    {
+      "class": "group",
+      "id": "D6EB9582-7C48-46C1-ACEA-794B5C6D65CA"
+    },
+    {
+      "class": "group",
+      "id": "398CA8E9-C71F-4EC8-878B-B7CBF6AAB981"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9561431-1381-42ED-BB78-2B4F86717269"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15952E70-7037-400F-A4F1-5369F98C8CA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90C3EE92-589E-4A55-B234-F258B1DD6190"
+    }
+  ],
+  "name": "Business Services - Spanish only - https://shop.pricesmart.com/cr/sp/business-services",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77B84DBB-F384-4F6F-8F68-CE6F1763B289",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7F526475-D121-4B7E-820A-D9FE7508108A",
+    "guides": [
+    ]
+  }
+}

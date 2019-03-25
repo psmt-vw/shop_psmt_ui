@@ -1,0 +1,117 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1882352941,
+            "green": 0.1843137255,
+            "red": 0.1764705882
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
+            "paragraphSpacing": 5
+          }
+        },
+        "length": 3770,
+        "location": 0
+      }
+    ],
+    "string": "Who can shop online on PriceSmart.com?\nPriceSmart is a membership club and our members enjoy low prices on an excellent selection of high-quality, brand name, U.S., international and local products and services for home and business. Because our members pay an annual membership fee to have access to this low pricing, you must be a PriceSmart member to shop online with us.\n\nAre all items featured on PriceSmart.com in stock? \nThe items featured on PriceSmart.com are not in stock in our clubs. Items are imported from our U.S. vendors. From time to time our vendors sell out of a particular item and we do our best to inform our members in a timely manner that an item is out of stock. If however, after your order is placed, we check with the vendor and find out that the item is on backorder, you will have the option to cancel your order; if the time frame does not fit in with your expectations. If you have any concerns about an item being in stock we suggest that you send us an email to memberservicetrinidad@pricesmart.com.\n\nCan I buy online for my relatives or friends in other countries?\nNot at this time, unless you plan to pick up your order in the country where it will be delivered. The purchasing member must pick up the order.\n\nDo I need to have my membership card with me to shop online at PriceSmart.com?\nNo, but you will need your membership number to create a PriceSmart.com account the first time you shop with us. You must login to your account to make purchases on PriceSmart.com. You will also need to present your membership card when you pick up your order.\n\nHow do I change my account information?\nTo change the name, e-mail address, or password associated with your account, sign in to My Account using the e-mail address and password currently associated with your account. To change your email address, enter the new email address and your current password. To change your password, enter your current password and the new one.\n\nWhat if I forget my password?\nIf you have forgotten your password, click on “Lost Password?” on the Login screen. You will need to provide the email address and membership number you signed up. We will email your password to the email address you have given us.\n\nWhere does PriceSmart.com deliver?\nAt the present time, PriceSmart only delivers merchandise to its warehouse clubs.\n\nWhy doesn’t PriceSmart.com deliver to residences or businesses?\nIn order to bring our members the best price on merchandise, we are leveraging the existing delivery systems we use to get the merchandise we sell in the clubs to the club locations. Our standard shipping for online purchases (included in the price of the products) involves the same distribution and freight logistics that are used to deliver large quantities of products to the clubs.\n\nHow long will it take for my order to arrive?\nOur estimated shipping times are based on several factors, including the origin of the item and your destination warehouse. The average estimated standard shipping time is 30 business days; by adding Express Shipping to an item you can expect delivery in approximately 15 business days. We cannot guarantee delivery on a specific day.\n\nHow will I know when to pick up my purchases?\nYou will receive a phone call and/or an email when your purchases have arrived at the warehouse you selected during the order process. Remember, if you have multiple items in your order they may not all arrive at the same time.\n\nCan my spouse or other relative or friend pick up my purchases?\nNot at this time. The member who purchased the items must present his or her membership card, a photo ID and the credit card that was used to make the purchases in order to pick up the items. The credit card must belong to the member who placed the order."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4FAF2426-DD82-4C61-8237-EF48E4568B09",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C5C4A2A-9E62-4034-ACBA-36E7AB8E5F70",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9851D2AA-66E1-4BB3-B271-33CE3F8200B0",
+    "height": 1203,
+    "width": 767,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 4}, {765, 1189}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Who can shop online",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "718E3D48-9E51-4671-834A-071E0E77D49E",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7C41118-07B3-49B7-AFC2-9C02DE507FBA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941,
+          "green": 0.1843137255,
+          "red": 0.1764705882
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
+          "paragraphSpacing": 5
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

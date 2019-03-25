@@ -1,0 +1,154 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "258F423F-BBC2-426F-A44D-9DFF6E7E0F6B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A015496-A972-4766-B448-DD1A796F77AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A31A50EA-CD1D-4014-BA6C-9268BFF422F1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5689B4A-0885-4DEF-9785-CCCA33459A10",
+    "height": 997,
+    "width": 1024,
+    "x": 15862,
+    "y": 7
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4078E0A5-C8E9-47B4-80E8-C422A154CFD6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8D470FF8-67DE-4FF9-9D67-2A9C0415910D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "468C3884-9044-4426-89C1-4B4588ECB6B7"
+    },
+    {
+      "class": "group",
+      "id": "C7DC3118-06FB-4B65-80BB-AB2551C9E764"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1AD167D-9DAE-48C1-9426-8AE59E777716"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C3D0B9D-6AA6-483F-9782-C038C218B128"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A102C49-419C-4057-A8F0-FCC9252503E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B1DE96D-B947-4667-8177-7AC085FBBC52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60939F73-350E-403B-B186-3D1A89D44CF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AACC44CA-6F9C-45DB-B6F8-32067C3F09F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42359943-D7C5-4AFB-983D-9CC8CD8CD54E"
+    },
+    {
+      "class": "text",
+      "id": "E8DE1E49-2C8B-45C2-BDD8-4320232A1C49"
+    },
+    {
+      "class": "text",
+      "id": "095EEA1F-48A3-442B-98EC-9CD22BF35DE6"
+    },
+    {
+      "class": "group",
+      "id": "607FDAEE-CA46-4101-80DF-62EFBBA57282"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9014770-B19C-4ECE-BF37-B72BE2B27A3E"
+    }
+  ],
+  "name": "Membership - https://shop.pricesmart.com/co/en/colombia-membership",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3C7763E3-DD6A-4D64-95CB-257350A9D0BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "45B66129-C05F-45B4-B008-5E8D092EA963",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E7FA17E9-D83C-42F0-94E7-5F6D1C7DDE36",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F45EA907-6854-4B52-B711-0DC66F76FE78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "838ABB2A-D317-47EE-93EC-8ECA8FB9A1A0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08EFB58F-EB07-4A16-B219-18A99DBF0589",
+    "height": 449,
+    "width": 1024,
+    "x": 5708,
+    "y": 8309
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "07E386DF-59E8-4688-ABA1-66697170A090",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "38DCFC39-F1B6-4B6B-9A7E-A67DB6CBE4D2"
+    },
+    {
+      "class": "text",
+      "id": "E9D4FF50-CC39-42A9-AB18-E119C55CD204"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F454130-9EB5-4571-89BE-292D7398278E"
+    },
+    {
+      "class": "text",
+      "id": "6C9B44F2-7C34-47B1-966C-2A34B9F5B6E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFDDD2BA-4DC4-4AA1-A128-695AD0CB4C37"
+    }
+  ],
+  "name": "Membership Terms & Conditions - Trin/Tob - http://www.pricesmart.com/conditions/tt/tt.html",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF89EEEF-3B53-4992-A06A-5AF50017F5DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1CC05853-629F-4FDD-A4B0-99861C348961",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A03C79A-8BBC-4137-821D-6E7D18FED0BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37C1850F-CF1B-4C08-A0D4-4B1E7CCC130C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "654A3485-A559-426C-B902-9FAAA381E2EF",
+    "height": 144,
+    "width": 368,
+    "x": 656,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F5CE39FC-0F82-4633-9E53-904D622AEB5C"
+    },
+    {
+      "class": "group",
+      "id": "81CC76A5-6A45-46EC-9DC5-D14027C926DD"
+    },
+    {
+      "class": "group",
+      "id": "4127287E-1ABF-4E2C-832D-625CF39477B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35A4BEDC-EF51-4066-B1DD-E3E2632C5E9A"
+    },
+    {
+      "class": "text",
+      "id": "446CEAF3-6E56-424A-94C1-B7BAAC51CE53"
+    }
+  ],
+  "name": "newsletter dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A53F08BB-FEEF-4941-8692-F8E5BCEA1F3A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
